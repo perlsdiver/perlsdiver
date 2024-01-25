@@ -1,11 +1,11 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on my Ph.D. in Social Welfare and Interactive Technology and Pedagogy at the CUNY Graduate Center in New York City.
-- 📜 I have a Bachelor's degree in the humanities (East Asian Studies, Cultural Studies, world religions) and a Master's degree in social work (focusing on organizational management and leadership).
-- 🔬 I research the intersections of human service organizations, emerging technologies, and social theory. Right now I am mainly focused on my coursework.
+- 🔭 I’m currently working on my Ph.D. in Social Welfare and Interactive Technology and Pedagogy at the [CUNY Graduate Center](https://www.gc.cuny.edu/) in New York City.
+- 📜 I have a Bachelor's degree in the humanities (East Asian Studies, Cultural Studies, World Religions) and a Master's degree in Social Work (focusing on Organizational Management and Leadership).
+- 🔬 I research the intersections of human service organizations, emerging technologies, and social theory. Right now I am mainly focused on my coursework and my qualifying exams.
 
 - ⚗️ I'm curious about data visualization, digital art, and design.
-- 🌱 I'm currently learning a mix of programming, research methods, and how to develop a sustainable system for balancing an endless avalanche of work and projects.
+- 🌱 I'm currently learning a mix of programming (JavaScript, R, Python), research methods, and how to develop a sustainable system for balancing an endless avalanche of work and projects.
 
 - 😄 Pronouns: he/him.
 
