@@ -6,7 +6,7 @@
 - 🔬 I research the intersections of human service organizations, emerging technologies, and social theory. Right now I am mainly focused on my coursework and my qualifying exams.
 
 - ⚗️ I'm curious about data visualization, digital art, and design.
-- 🌱 Over the last several years I've learned a mix of programming (JavaScript, R, Python), research methods, and how to develop a sustainable system for balancing an endless avalanche of work and projects.
+- 🌱 Over the last several years I've learned a mix of programming (JavaScript, R, Python) languages, research methods, and some foundations for developing a sustainable system for balancing an endless avalanche of work and projects (I have a lot going on).
 
 - 😄 Pronouns: he/him.
 
