@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on my Ph.D. in Social Welfare at The [CUNY Graduate Center](https://www.gc.cuny.edu/) in New York City.
+- 🔭 I’m currently working on my Ph.D. in Social Welfare at [The CUNY Graduate Center](https://www.gc.cuny.edu/) in New York City.
 - 📜 I have a Bachelor's degree in the humanities (East Asian Studies, Cultural Studies, World Religions), a Master's degree in Social Work (Organizational Management and Leadership), and a Certificate in Interactive Technology at The CUNY Graduate Center.
 - 👯 I teach graduate courses on social policy, capstone projects, social work field education, and digital skills (HTML, CSS, Git/Github).
 - 🔬 I research the intersections of human service organizations, emerging technologies, and social theory. Right now I am mainly focused on my qualifying exam and a few research projects.
