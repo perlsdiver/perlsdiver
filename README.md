@@ -1,12 +1,12 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on my Ph.D. in Social Welfare at [The CUNY Graduate Center](https://www.gc.cuny.edu/) in New York City.
-- 📜 I have a Bachelor's degree in the humanities (East Asian Studies, Cultural Studies, World Religions), a Master's degree in Social Work (Organizational Management and Leadership), and a Certificate in Interactive Technology at The CUNY Graduate Center.
-- 👯 I teach graduate courses on social policy, capstone projects, social work field education, and digital skills (HTML, CSS, Git/Github).
-- 🔬 I research the intersections of human service organizations, emerging technologies, and social theory. Right now I am mainly focused on my qualifying exam and a few research projects.
+- 📜 I have a Bachelor's degree in the humanities (East Asian Studies, Cultural Studies, World Religions), a Master's degree in Social Work (Organizational Management and Leadership), and a Certificate in Interactive Technology.
+- 👯 I teach graduate courses on social policy, capstone projects, social work field education, and workshops digital skills (HTML, CSS, Git/Github).
+- 🔬 I research the intersections of human service organizations, emerging technologies, and social theory, with a particular interest in digital literacies and open data infrastructures. Right now I am mainly focused on my qualifying exam and a few research projects.
 
-- ⚗️ I'm curious about data visualization, digital art, design, and data justice.
-- 🌱 Over the last several years I've learned a mix of programming (JavaScript, R, Python) languages, research methods, and some foundations for developing a sustainable system for balancing an endless avalanche of work and projects (I have a lot going on).
+- ⚗️ I'm curious about data visualization, digital art, design, and data justice. I like people who build tools and organizations that make the world a more just and equitable place.
+- 🌱 Over the last several years I've learned a mix of programming languages (JavaScript, R, Python), research methods, and some foundations for developing a sustainable system for balancing an endless avalanche of work and projects that is #PhDlife.
 
 - 😄 Pronouns: he/him.
 
